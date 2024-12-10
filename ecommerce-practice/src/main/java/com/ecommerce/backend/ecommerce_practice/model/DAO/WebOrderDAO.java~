@@ -1,0 +1,4 @@
+package com.ecommerce.backend.ecommerce_practice.model.DAO;
+
+public interface WebOrderDAO {
+}

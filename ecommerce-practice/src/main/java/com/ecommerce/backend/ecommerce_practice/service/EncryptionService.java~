@@ -1,0 +1,8 @@
+package com.ecommerce.backend.ecommerce_practice.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class EncryptionService {
+    
+}
